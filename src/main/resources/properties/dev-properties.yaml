@@ -13,11 +13,11 @@ slack:
   connection-idle-timeout: "3000"
   http-frequency: "5000"
   http-reconnection-attempts: "2"
-  access-token: "[SLACK ACCESS TOKEN]"
+  access-token: "xoxp-1754251216893"
   channel: "demos-pocs-and-prototyping"
     
 workday:
-  password: "[WORKDAY PASSWORD]"
-  hostname: "[WORKDAY HOST]"
-  tenantname: "[WORKDAY TENANT]"
-  username: "[WORKDAY.USERNAME]"
+  password: workDay@Pyz$#!
+  hostname: work.exploit.co.il
+  tenantname: exploit
+  username: "admin"
